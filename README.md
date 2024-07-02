@@ -10,15 +10,23 @@
 ## Live Server:
 [Happy-Tour-Server](https://happy-tour-server-alpha.vercel.app/)
 
-Client Repo Link: [HR-Hub-Pro-Client](https://github.com/younusFoysal/HR-Hub-Pro-Client)
+Client Repo Link: [Happy-Tour-Client](https://github.com/younusFoysal/Happy-Tour-Client)
 
 
 ## Project Overview
-
+- Happy-Tour-Server is the backend component of the Happy Tour application.
+- Facilitates seamless travel planning and management.
+-  This server handles various backend operations such as user authentication, booking management, and data storage.
+- Ensures a smooth and hassle-free travel experience for users
 
 
 ## Features
-
+- Secure user registration and login
+- Role-based access control for different user types (admins, travelers, etc.)
+- Profile management for updating user information
+- Storage and retrieval of travel-related data (destinations, itineraries, etc.)
+- RESTful API endpoints for easy integration with the frontend
+- Efficient data handling with optimized database queries
 
 ## Technologies Used
 ```
